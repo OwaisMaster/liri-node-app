@@ -38,4 +38,4 @@ Typing ```node liri do-what-it-says``` accesses the text in the separate random.
 
 To avoid confusion on new calls versus reading random.txt, the do-what-it-says option does not append anything to log.txt.
 
-![3 in 1 Screenshot](/images/do-what-it-says.PNG)
+![3 in 1 Screenshot](/images/do-what-it-says.gif)
