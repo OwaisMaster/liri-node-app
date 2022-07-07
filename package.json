@@ -22,7 +22,7 @@
     "bandsintown": "^1.0.1",
     "chalk": "^2.4.2",
     "dotenv": "^8.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-spotify-api": "^1.1.1",
     "omdb": "^0.8.0",
     "spotify": "^0.3.0"
